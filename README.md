@@ -10,7 +10,7 @@ AORadar is a cutting-edge radar tool designed to revolutionize your gameplay exp
 
 ## Why It's Free?
 
-At AORadar, we believe in fostering a thriving Albion Online community. As passionate players ourselves, we aim to contribute positively to the game's ecosystem by offering AORadar as a free and open-source tool. We rely on the generosity of the community to support the development and maintenance of AORadar
+At AORadar, we believe in fostering a thriving Albion Online community. As passionate players ourselves, we aim to contribute positively to the game's ecosystem by offering AORadar as a free and open-source tool. We rely on the generosity of the community to support the development and maintenance of AORadar.
 
 ## Key Features 🚀
 
