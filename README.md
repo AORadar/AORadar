@@ -20,17 +20,6 @@ AORadar is a cutting-edge radar tool designed to revolutionize your gameplay exp
 - **Community-Driven Data**: AORadar relies on community-driven data to ensure the radar's accuracy and relevancy. Contribute to the community by updating and sharing information for the benefit of all players.
 
 
-## Getting Started 🛡️
-
-Getting started with AORadar is easy! Simply follow these steps to enhance your Albion Online gameplay:
-
-1. **Download AORadar**: Visit the [Releases](https://github.com/AORadar/AORadar/releases) page in our GitHub repository. Download the latest version of AT Radar that matches your operating system.
-
-2. **Launch AORadar**: Once the download is complete, launch AT Radar on your device. The tool works by scanning your Albion Online game client for information and then displaying it on the overlay map.
-
-3. **Get in the Game**: With AORadar up and running, dive into Albion Online and embark on your adventures! Keep a close watch on the real-time radar map to detect nearby players, resources, and threats. Customize your alerts to receive notifications for crucial in-game events.
-
-Feel the difference as you navigate the game world with AORadar's valuable insights at your disposal!
 
 ## Join our Discord Community! 🚀
 
