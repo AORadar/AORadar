@@ -11,7 +11,7 @@ AORadar is a cutting-edge radar tool designed to revolutionize your gameplay exp
 
 ## Key Features 🚀
 
-- **Live Radar**: AORadar provides a real-time radar map that enables you to detect other players, hostile creatures, and valuable resources nearby. Stay alert and seize opportunities or avoid dangers effectively.
+- **Live Radar**: AORadar provides a real-time radar map that enables you to detect other players, hostile creatures, and valuable resources nearby. Stay alert and seize opportunities or avoid dangers effectively
 
 - **Customizable Alerts**: Tailor your gaming experience by setting up personalized alerts for specific events or player activities. Be notified when enemies approach, resources respawn, or events occur in the game world.
 
